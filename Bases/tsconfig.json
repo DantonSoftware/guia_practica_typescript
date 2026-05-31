@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "ignoreDeprecations": "6.0",
+    "rootDir": "./namespaces",
+    "module": "none",
+    "target": "es6",
+    "sourceMap": true,
+    "outFile": "./main.js",
+    "declaration": false,
+    "declarationMap": false,
+    "strict": true,
+    "skipLibCheck": true
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "include": [
+    "namespaces/**/*.ts"
+  ]
+}

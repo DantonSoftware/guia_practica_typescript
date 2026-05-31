@@ -1,0 +1,20 @@
+- Instalación de typescript global
+	- npm install -g typescript
+
+- ver versión
+	- tsc --versión
+
+- crear archivo tsconfig.json
+	- tsc --init
+
+- traspilacion de typescript a js
+	- tsc
+
+- modo observable -  modo observador
+	- tsc -w
+
+
+- crear proyecto en express
+	- npm init
+	- npm install express
+	- node index.js
